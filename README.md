@@ -4,3 +4,4 @@ Resource-efficient human activity recognition from smartphone accelerometer and 
 Contributions:
 - Dahlia Mohammadi (10915528) - Phase 2. Experimental Design 
 - Kyle Xander Co (--------) - Phase 1. Preliminary Analysis of the UCI-HAR 2012 Dataset
+- Ben Zahrul (--------) 🤷🏻‍♀️
